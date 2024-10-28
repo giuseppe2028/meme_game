@@ -1,0 +1,27 @@
+.GameRule{
+    background-color: rgba(112, 188, 222, 0.73);
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CardBody{
+    text-align: justify;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.vertical-center {
+
+}
+.PlayerButton{
+    background-color: #415c9f;
+    position: absolute;
+    top: 50%;
+    padding-top: 0.8rem;
+    height: 4rem;
+    width: 12rem;
+    font-size: 1.5rem;
+}

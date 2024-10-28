@@ -1,0 +1,10 @@
+.MemeContainer{
+    background-color: white;
+    color: black;
+    outline-color: black;
+    border-radius: 15px;
+    width: 28rem;
+    height: 5rem;
+    border-color:black;
+    align-content: center;
+}
